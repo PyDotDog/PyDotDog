@@ -16,8 +16,7 @@ I'm an experienced backend developer with a strong focus on writing clean, effic
 - 🔧 Passionate about best programming practices and design patterns
 - 🎮 Enthusiast of retro gaming (Nintendo Wii, Rock Band, skateboarding games)
 - ⌚ Collector of mechanical watches and pixel art creator
-- 🌍 Based in Poland, learning French
-
+- 🌍 Based in Poland, knows English, German and currently learning Dutch
 ---
 
 ## 💻 Tech Stack & Tools
@@ -55,73 +54,14 @@ I'm an experienced backend developer with a strong focus on writing clean, effic
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=white" />
 </p>
 
-**Languages:**
-- C# / .NET (3+ years)
-- Python (2+ years)
-- Go (0.5+ years)
-- TypeScript / JavaScript
-- SQL / T-SQL
-- Bash scripting
-- Xbase++
-
-**Frameworks & Tools:**
-- Entity Framework Core
-- ASP.NET / ASP.NET Core
-- FastAPI / Django
-- Docker & Kubernetes
-- AWS (S3, DynamoDB, EC2, Lambda)
-- Git & GitHub
-- VS Code / Neovim
-- Postman
-- PostgreSQL / SQL Server
-- Redis
-
-**Specializations:**
-- API Development & Integration
-- Database Design & Optimization
-- Cloud Services (AWS)
-- System Integration
-- DevOps Automation
-- Legacy System Migration
-
----
-
-## 🎯 Recent Projects & Experience
-
-**Backend Development**
-- Designing and implementing RESTful APIs with modern architecture
-- Database optimization and LINQ query translation
-- Async/await patterns and concurrent programming (Go goroutines, .NET async)
-- Authentication workflows and middleware components
-- gRPC and REST API design patterns
-
-**System Integration**
-- Legacy system modernization and migration
-- Multi-language development environments
-- API integration and data processing workflows
-- Database management with PostgreSQL, SQL Server
-- Microservices architecture
-
-**DevOps & Cloud**
-- AWS cloud services automation
-- Docker containerization
-- CI/CD pipeline development
-- Infrastructure as Code practices
-- Container orchestration
-
----
-
 ## 🌟 Interests & Hobbies
 
 Beyond programming, I'm passionate about:
 - 🎮 **Retro Gaming** — Nintendo Wii, Rock Band, skateboarding games
 - ⌚ **Mechanical Watches** — Collecting and appreciating fine timepieces
 - 🎨 **Pixel Art** — Creating digital artwork with retro aesthetic
-- 🍳 **Cooking** — Exploring new recipes and air fryer cooking
-- 🏋️ **Fitness** — Regular workouts and weightlifting
 - 🌍 **Travel** — Exploring new cultures and places
-- 📚 **Learning** — Currently exploring Go advanced concepts and French language
-- 🛠️ **Car Maintenance** — DIY projects and improvements
+- 📚 **Learning** — Currently exploring Go advanced concepts and Dutch language
 
 ---
 
@@ -129,8 +69,8 @@ Beyond programming, I'm passionate about:
 
 Interested in collaboration or just want to chat about technology, gaming, or watches?
 
-- 📧 [Email](mailto:your-email@example.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/maciej-palubicki/)
+- 📧 [Email](mailto:palubickimaciej5+pydotdog@gmail.com)
+- 💼 [LinkedIn](https://pl.linkedin.com/in/maciej-pa%C5%82ubicki-b83456253)
 - 🐙 [GitHub](https://github.com/pydotdog)
 - 🌐 [Portfolio](https://pydotdog.github.io)
 
@@ -138,12 +78,21 @@ Interested in collaboration or just want to chat about technology, gaming, or wa
 
 ## 📊 GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pydotdog&show_icons=true&theme=dark)](https://github.com/pydotdog)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pydotdog&layout=compact&theme=dark)](https://github.com/pydotdog)
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=pydotdog&show_icons=true&theme=dark" alt="GitHub Stats" />
+      </td>
+      <td align="center" width="50%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pydotdog&layout=compact&theme=dark" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
-**"Code is poetry written for machines and humans alike."**
+**"A computer does what you tell it to do, not what you want it to do." — Ed Post**
 
 Feel free to reach out if you have any interesting projects or opportunities!
